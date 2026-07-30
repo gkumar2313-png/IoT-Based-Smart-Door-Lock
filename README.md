@@ -87,13 +87,10 @@ IoT-Based-Smart-Door-Lock
 
 ---
 
-# Circuit Diagram
 
-The complete circuit diagram is available in:
+## 🔧 Circuit Diagram
 
-```
-Circuit_Diagram/Project Circuit.png
-```
+![Circuit Diagram](Circuit_Diagram/circuit_diagram.png)
 
 The circuit consists of:
 
@@ -155,10 +152,13 @@ The simulation demonstrates:
 - LED Status Indication
 - Buzzer Alarm
 
-The simulation video is available inside:
 
 ```
-Simulation/Project Simulation.mp4
+## Simulation Video
+
+Click the video below to watch the simulation.
+
+[▶️ Watch Simulation Video](Simulation/Project_Simulation.mp4)
 ```
 
 ---
